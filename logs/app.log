@@ -1,0 +1,35 @@
+2025-02-22 01:34:15.709 | INFO     | main:process:19 - Received Request: {'text': 'hello'}
+2025-02-22 01:34:15.763 | INFO     | nlp.processor:process_text:23 - Intent detected: greeting
+2025-02-22 01:34:15.788 | INFO     | main:process:28 - Response: Intent recognized: greeting
+2025-02-22 21:27:41.600 | INFO     | main:process:19 - Received Request: {'text': 'hello'}
+2025-02-22 21:27:41.633 | INFO     | nlp.processor:process_text:23 - Intent detected: greeting
+2025-02-22 21:27:41.659 | INFO     | main:process:28 - Response: Intent recognized: greeting
+2025-02-22 21:44:29.329 | INFO     | main:process:20 - Received Request: {'text': 'goodbye'}
+2025-02-22 21:44:29.336 | INFO     | nlp.processor:process_text:23 - Intent detected: farewell
+2025-02-22 21:44:29.342 | INFO     | main:process:29 - Response: Intent recognized: farewell
+2025-02-22 22:00:15.672 | INFO     | main:process_voice:39 - Recording voice input...
+2025-02-22 22:04:01.691 | INFO     | main:process:21 - Received Request: {'text': 'weather'}
+2025-02-22 22:04:01.724 | INFO     | nlp.processor:process_text:23 - Intent detected: weather
+2025-02-22 22:04:01.738 | INFO     | main:process:30 - Response: Intent recognized: weather
+2025-02-22 22:23:03.830 | INFO     | nlp.processor:process_text:23 - Intent detected: greeting
+2025-02-25 21:56:22.603 | INFO     | main:process:22 - Received Request: {'text': 'hello'}
+2025-02-25 21:56:22.636 | INFO     | nlp.processor:process_text:23 - Intent detected: greeting
+2025-02-25 21:56:22.761 | INFO     | main:process:31 - Response: Intent recognized: greeting
+2025-02-25 21:56:34.686 | INFO     | main:process:22 - Received Request: {'text': 'weather'}
+2025-02-25 21:56:34.693 | INFO     | nlp.processor:process_text:23 - Intent detected: weather
+2025-02-25 21:56:34.696 | INFO     | main:process:31 - Response: Intent recognized: weather
+2025-02-25 21:56:47.297 | INFO     | main:process:22 - Received Request: {'text': 'goodbye'}
+2025-02-25 21:56:47.307 | INFO     | nlp.processor:process_text:23 - Intent detected: farewell
+2025-02-25 21:56:47.309 | INFO     | main:process:31 - Response: Intent recognized: farewell
+2025-02-25 22:08:48.137 | INFO     | main:process:22 - Received Request: {'text': 'hello'}
+2025-02-25 22:08:48.172 | INFO     | nlp.processor:process_text:23 - Intent detected: greeting
+2025-02-25 22:08:48.181 | INFO     | main:process:31 - Response: Intent recognized: greeting
+2025-02-25 22:09:01.201 | INFO     | main:process:22 - Received Request: {'text': 'weather'}
+2025-02-25 22:09:01.209 | INFO     | nlp.processor:process_text:23 - Intent detected: weather
+2025-02-25 22:09:01.211 | INFO     | main:process:31 - Response: Intent recognized: weather
+2025-02-25 22:09:14.698 | INFO     | main:process:22 - Received Request: {'text': 'goodbye'}
+2025-02-25 22:09:14.703 | INFO     | nlp.processor:process_text:23 - Intent detected: farewell
+2025-02-25 22:09:14.708 | INFO     | main:process:31 - Response: Intent recognized: farewell
+2025-02-25 22:19:20.045 | INFO     | main:process:22 - Received Request: {'text': 'bye'}
+2025-02-25 22:19:20.093 | INFO     | nlp.processor:process_text:23 - Intent detected: farewell
+2025-02-25 22:19:20.112 | INFO     | main:process:31 - Response: Intent recognized: farewell
