@@ -14,8 +14,8 @@ Hey there! 👋 This is a simple AI Virtual Assistant backend built with **FastA
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai_voice_assistant.git
-cd ai_voice_assistant
+git clone https://github.com/keerthiiiib/ai_virtual_assistant.git
+cd ai_virtual_assistant
 ```
 
 ### 2️⃣ Install Dependencies  
@@ -38,12 +38,12 @@ If you want to run this inside a **Docker container**, follow these steps:
 
 ### 1️⃣ Build the Docker Image  
 ```bash
-docker build -t ai_voice_assistant .
+docker build -t ai_virtual_assistant .
 ```
 
 ### 2️⃣ Run the Container  
 ```bash
-docker run -p 8000:8000 ai_voice_assistant
+docker run -p 8000:8000 ai_virtual_assistant
 ```
 Now, visit **http://localhost:8000/docs** to test the API inside Docker! 🎉  
 
