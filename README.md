@@ -50,7 +50,8 @@ Now, visit **http://localhost:8000/docs** to test the API inside Docker! 🎉
 ---
 
 ## 📹 Demo Video (Required for Submission)  
-🎥 **Watch a quick demo here:** [Demo Video](https://youtu.be/example) *(replace with your actual link)*  
+🎥 **Watch a quick demo here:** [Demo Video](https://github.com/keerthiiiib/ai_virtual_assistant/raw/main/demo.mp4
+)
 
 ---
 
